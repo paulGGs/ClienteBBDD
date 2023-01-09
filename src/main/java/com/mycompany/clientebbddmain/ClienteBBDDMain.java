@@ -19,7 +19,7 @@ public class ClienteBBDDMain {
         BBDD baseDeDatos1 = new BBDD();
 
         //HOLA PAUL, GUAPO
-        //SEGUNDO COMENTARIO PARA EL GUAPO DE PAUL
+        //SEGUNDO COMENTARIO PARA EL GUAPO DE LUCAS
         do {
             System.out.println("Elija la operación que desea realizar:\n");
             System.out.println("Añadir un cliente nuevo (pulse 1)");
